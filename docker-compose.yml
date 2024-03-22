@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  app:
+    container_name: redux-demo-c
+    image: redux-demo-i
+    build:
+      context: .
+    ports:
+      - 8080:80
