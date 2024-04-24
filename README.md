@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### `npm install`
+After cloning the project. Use the above command with yarn or npm to install the dependencies and the packages for running the porject locally.
+
 ## Available Scripts
 
 In the project directory, you can run:
